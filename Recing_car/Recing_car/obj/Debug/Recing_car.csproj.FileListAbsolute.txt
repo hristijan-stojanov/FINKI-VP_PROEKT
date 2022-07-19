@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Recing_car\Recing_car\bin\Debug\Recing_car.exe.config
+C:\Users\PC\source\repos\Recing_car\Recing_car\bin\Debug\Recing_car.exe
+C:\Users\PC\source\repos\Recing_car\Recing_car\bin\Debug\Recing_car.pdb
+C:\Users\PC\source\repos\Recing_car\Recing_car\obj\Debug\Recing_car.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Recing_car\Recing_car\obj\Debug\Recing_car.Form1.resources
+C:\Users\PC\source\repos\Recing_car\Recing_car\obj\Debug\Recing_car.Properties.Resources.resources
+C:\Users\PC\source\repos\Recing_car\Recing_car\obj\Debug\Recing_car.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Recing_car\Recing_car\obj\Debug\Recing_car.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Recing_car\Recing_car\obj\Debug\Recing_car.exe
+C:\Users\PC\source\repos\Recing_car\Recing_car\obj\Debug\Recing_car.pdb
